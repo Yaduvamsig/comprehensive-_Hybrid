@@ -1,0 +1,31 @@
+2021-11-22 11:19:59,615  INFO [main] ReadPropertyFile:33 - <<<-navigated to url->>>
+2021-11-22 11:20:09,142  INFO [main] ReadPropertyFile:52 - to the signin page
+2021-11-22 11:20:20,139  INFO [main] ReadPropertyFile:30 - navigation to url
+2021-11-22 11:20:40,417  INFO [main] ReadPropertyFile:44 - navigated to All of it page
+2021-11-22 11:20:59,516  INFO [main] ReadPropertyFile:28 - navigation to url
+2021-11-22 11:21:04,728  INFO [main] ReadPropertyFile:36 -  navigated to corporate gifts and Submitted successfully
+2021-11-22 11:21:14,229  INFO [main] ReadPropertyFile:31 - navigation to url
+2021-11-22 11:21:16,996  INFO [main] ReadPropertyFile:39 -  submitted successfully 
+2021-11-22 11:21:26,838  INFO [main] ReadPropertyFile:40 - navigation to url
+2021-11-22 11:21:46,204  INFO [main] ReadPropertyFile:56 - navigated to Homelifestyle
+2021-11-22 11:21:55,809  INFO [main] ReadPropertyFile:30 - navigation to url
+2021-11-22 11:22:11,519  INFO [main] ReadPropertyFile:37 - performed mouse actions
+2021-11-22 11:22:21,279  INFO [main] ReadPropertyFile:32 - navigation to url
+2021-11-22 11:22:29,889  INFO [main] ReadPropertyFile:42 - Assertion passed
+2021-11-22 11:22:29,890  INFO [main] ReadPropertyFile:43 - navigated to top50
+2021-11-22 11:22:39,830  INFO [main] ReadPropertyFile:34 - navigation to url
+2021-11-22 11:22:48,819  INFO [main] ReadPropertyFile:46 - Assertion passed
+2021-11-22 11:22:54,702  INFO [main] ReadPropertyFile:31 - navigation to url
+2021-11-22 11:23:00,199  INFO [main] ReadPropertyFile:53 - trackorderpage completed
+2021-11-22 11:23:05,419  INFO [main] ReadPropertyFile:33 - navigation to url
+2021-11-22 11:23:14,730  INFO [main] ReadPropertyFile:49 - navigated to secret santa gifts
+2021-11-22 11:23:19,889 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-11-22 11:23:19,893 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-11-22 11:23:19,893 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-22 11:23:19,900 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-22 11:23:19,901 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Yadu%20Vamsi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-22 11:23:20,499 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-11-22 11:23:20,501 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-11-22 11:23:20,502 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-22 11:23:20,502 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-22 11:23:20,502 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Yadu%20Vamsi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
